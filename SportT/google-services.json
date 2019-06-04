@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "538871290244",
+    "firebase_url": "https://sporttraining-6e603.firebaseio.com",
+    "project_id": "sporttraining-6e603",
+    "storage_bucket": "sporttraining-6e603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538871290244:android:37154f9562b2e082",
+        "android_client_info": {
+          "package_name": "com.cca.sportt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538871290244-j500hpe34itn2qtd6edisrp1v0o86nb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cca.sportt",
+            "certificate_hash": "c3d656dc2aa7f2da781150cbdf41454cb3b24d80"
+          }
+        },
+        {
+          "client_id": "538871290244-avfrb4mtau7suoqiq2q7v0353lg4pl8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm1k_TrVdeeQDRnlscMuyp106wISoHgb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538871290244-avfrb4mtau7suoqiq2q7v0353lg4pl8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
