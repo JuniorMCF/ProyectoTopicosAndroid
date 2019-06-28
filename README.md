@@ -9,6 +9,8 @@ Sport Training es una app android que te permitirá conocer las diferentes disci
 
 Para ejecutar la aplicacion se necesita un dispositivo movil con sistema operativo android 5.1 a más, como este es un modelo de prueba, usted debera descargar la aplicacion del repositorio, correr la aplicacion en Android Studio ejecutandolo en su dispositivo movil (poner en modo desarrollador), o tambien podra utilizar un emulador del sistema operativo android (por ejemplo, NOX).
 
+![paso1](https://user-images.githubusercontent.com/27708565/60320548-b0d13200-993f-11e9-9dee-043b6bc5a1ba.PNG)
+
 ```
 
 ```
