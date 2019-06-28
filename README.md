@@ -3,12 +3,12 @@
 App Sport Training <br />
 
 ## Recursos
-* Se utilizó para la carga de imagenes la libreria [**Glide**](https://github.com/bumptech/glide) <br/>
-* Para evitar recargar el codigo se utilizo la libreria [**ButterKnife**](https://github.com/JakeWharton/butterknife)<br/>
+* Se utilizó para la carga de imagenes la librería [**Glide**](https://github.com/bumptech/glide) <br/>
+* Para evitar recargar el código se utilizó la librería [**ButterKnife**](https://github.com/JakeWharton/butterknife)<br/>
 * Se implementó Adapters para el manejo de los RecyclerView y CardView.
 * Se utilizó [**Firebase**](https://firebase.google.com/) como Back-End NO-SQL para la carga de datos en formato JSON.
-* Se utilizo algunos Fragments para los DrawableLayouts del menu de opciones de usuario
-* Se optó por utilizar más Activitys por la poca familiarizacion con la arquitectura de programación
+* Se utilizó algunos Fragments para los DrawableLayouts del menú de opciones de usuario
+* Se optó por utilizar más Activitys por la poca familiarización con la arquitectura de programación
 
 
 ## Empezando <br />
