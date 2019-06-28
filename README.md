@@ -41,9 +41,9 @@ Version 1.0
 
 ## Autores
 
-Castillo Flores Junior Manuel\\
-Aguirre Janampa Cristian\\
-Condor Torres Jesus Angel\\
+Castillo Flores Junior Manuel\n
+Aguirre Janampa Cristian\n
+Condor Torres Jesus Angel\n
 
 ## License
 Universidad Nacional de Ingeniería
