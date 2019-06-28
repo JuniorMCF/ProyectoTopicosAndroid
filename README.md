@@ -21,12 +21,16 @@ Para ejecutar la aplicacion se necesita un dispositivo movil con sistema operati
 ### Instalacion <br />
 Abrir el Android Studio e importar el proyecto, esperar a que la aplicación ejecute todas las sincronizaciones. <br />
 ```
-PASO 1 :Correr la app haciendo click como se muestra en la imagen adjunta
+PASO 1 : Abrir el Android Studio, click en File-> Open -> **Carpeta que contiene la app descargada **
+```
+![paso0](https://user-images.githubusercontent.com/27708565/60327104-a66b6400-9950-11e9-9ce1-bc1a5d750aa5.PNG)
+```
+PASO 2 :Correr la app haciendo click como se muestra en la imagen adjunta
 ```
 ![paso1](https://user-images.githubusercontent.com/27708565/60320548-b0d13200-993f-11e9-9dee-043b6bc5a1ba.PNG)
 
 ```
-PASO 2 :Escoger el dispositivo donde se instalara el apk
+PASO 3 :Escoger el dispositivo donde se instalara el apk
 ```
 ![paso2](https://user-images.githubusercontent.com/27708565/60320801-71571580-9940-11e9-8909-d87c5391d6dd.PNG)
 
@@ -46,7 +50,8 @@ Creamos un nuevo usuario:<br/>
 ![paso5](https://user-images.githubusercontent.com/27708565/60325356-bd0fbc00-994c-11e9-8b4f-810fe765a472.jpg)
 
 Nos logeamos<br/>
-![paso6](https://user-images.githubusercontent.com/27708565/60325388-cc8f0500-994c-11e9-8daf-4bf74ee8be4a.jpg)
+![paso7](https://user-images.githubusercontent.com/27708565/60325404-d4e74000-994c-11e9-9404-e7dd122978d9.jpg)
+<br/>
 
 ![paso8](https://user-images.githubusercontent.com/27708565/60325461-f6e0c280-994c-11e9-93be-c524216c43c4.jpg)
 
