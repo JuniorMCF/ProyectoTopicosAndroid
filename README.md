@@ -2,6 +2,15 @@
 
 App Sport Training <br />
 
+## Recursos
+* Se utilizó para la carga de imagenes la libreria [**Glide**](https://github.com/bumptech/glide) <br/>
+* Para evitar recargar el codigo se utilizo la libreria [**ButterKnife**](https://github.com/JakeWharton/butterknife)<br/>
+* Se implementó Adapters para el manejo de los RecyclerView y CardView.
+* Se utilizó [**Firebase**](https://firebase.google.com/) como back-end NO-SQL para la carga de datos en formato JSON.
+* Se utilizo algunos Fragments para los DrawableLayouts del menu de opciones de usuario
+* Se optó por utilizar más Activitys por la poca familiarizacion con la arquitectura de programación
+
+
 ## Empezando <br />
 Sport Training es una app android que te permitirá conocer las diferentes disciplinas deportivas existentes, y te familiarizara con los distintos planes de entrenamiento de cada deporte para poder competir a nivel profesional, o tambien te guiara a llevar una vida mas saludable a traves del ejercicio. <br />
 
@@ -21,13 +30,6 @@ PASO 2 :Escoger el dispositivo donde se instalara el apk
 ```
 ![paso2](https://user-images.githubusercontent.com/27708565/60320801-71571580-9940-11e9-8909-d87c5391d6dd.PNG)
 
-## Recursos
-* Se utilizó para la carga de imagenes la libreria [**Glide**](https://github.com/bumptech/glide) <br/>
-* Para evitar recargar el codigo se utilizo la libreria [ButterKnife](https://github.com/JakeWharton/butterknife)<br/>
-* Se implementó Adapters para el manejo de los RecyclerView y CardView.
-* Se utilizó [Firebase](https://firebase.google.com/) como back-end NO-SQL para la carga de datos en formato JSON.
-* Se utilizo algunos Fragments para los DrawableLayouts del menu de opciones de usuario
-* Se optó por utilizar más Activitys por la poca familiarizacion con la arquitectura de programación
 
 
 ## Corriendo la app <br />
