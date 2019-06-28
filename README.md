@@ -79,7 +79,7 @@ PASO 3 :Escoger el dispositivo donde se instalara el apk
 
 ![paso14](https://user-images.githubusercontent.com/27708565/60327563-cea79280-9951-11e9-9ed2-d7cedcde5f74.jpg)
 
-* Click en nivel 1, y a empezara ejercitarse :D
+* Click en nivel 1 y a empezar a ejercitarse **:D**
 
 ![paso13](https://user-images.githubusercontent.com/27708565/60327588-e3842600-9951-11e9-971d-8e575e5bd194.jpg)
 
@@ -99,7 +99,7 @@ Castillo Flores Junior Manuel <br />
 Aguirre Janampa Cristian <br />
 Condor Torres Jesus Angel <br />
 
-## License <br />
+## Licencia <br />
 Universidad Nacional de Ingeniería
 
 
