@@ -100,7 +100,7 @@ Aguirre Janampa Cristian <br />
 Condor Torres Jesus Angel <br />
 
 ## Licencia <br />
-Universidad Nacional de Ingeniería
+Universidad Nacional de Ingeniería - 2019-1
 
 
 ## Agradecimientos
