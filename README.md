@@ -21,6 +21,8 @@ PASO 2 :Escoger el dispositivo donde se instalara el apk
 ```
 ![paso2](https://user-images.githubusercontent.com/27708565/60320801-71571580-9940-11e9-8909-d87c5391d6dd.PNG)
 
+## Recursos
+* Se utilizó para la carga de imagenes la libreria [**Glide**](https://github.com/bumptech/glide) 
 
 ## Corriendo la app <br />
 Una vez instalada la app en nuestro dispositivo, ya podemos empezar: <br />
@@ -30,6 +32,36 @@ Una vez instalada la app en nuestro dispositivo, ya podemos empezar: <br />
 Iniciar sesión o click en el boton registrarse para obtener una cuenta. <br />
 
 ![paso4](https://user-images.githubusercontent.com/27708565/60321043-37d2da00-9941-11e9-8cee-0fbb8c28b436.jpg)
+
+Creamos un nuevo usuario:<br/>
+
+![paso5](https://user-images.githubusercontent.com/27708565/60325356-bd0fbc00-994c-11e9-8b4f-810fe765a472.jpg)
+
+Nos logeamos<br/>
+![paso6](https://user-images.githubusercontent.com/27708565/60325388-cc8f0500-994c-11e9-8daf-4bf74ee8be4a.jpg)
+
+![paso8](https://user-images.githubusercontent.com/27708565/60325461-f6e0c280-994c-11e9-93be-c524216c43c4.jpg)
+
+
+Elegimos una de las 3 opciones, como eres un nuevo usuario no tendras ningun deporte en tu lista de deportes (TUS DEPORTES), es por eso que ingresaremos a DEPORTES para poder registrarnos en uno de los deportes que tenemos disponibles.<br/>
+
+![paso9](https://user-images.githubusercontent.com/27708565/60325493-08c26580-994d-11e9-82ad-14d239172ebf.jpg)
+
+Aqui escogemos cualquier deporte, el cual nos llevara a una lista de sub-deportes
+
+![paso10](https://user-images.githubusercontent.com/27708565/60325509-14159100-994d-11e9-8d15-7a44c6fae560.jpg)
+
+Elegimos el plan que deseamos
+
+![paso11](https://user-images.githubusercontent.com/27708565/60325554-2bed1500-994d-11e9-90bb-598ce71fb72b.jpg)
+
+Click en INSCRIBIRSE
+
+![paso12](https://user-images.githubusercontent.com/27708565/60325568-34dde680-994d-11e9-88d1-def46d685954.jpg)
+
+
+
+
 
 ## Contribuciones <br />
 
