@@ -17,7 +17,7 @@ PASO 1 :Correr la app haciendo click como se muestra en la imagen adjunta
 ```
 PASO 2 :Escoger el dispositivo donde se instalara el apk
 ```
-
+![paso2](https://user-images.githubusercontent.com/27708565/60320801-71571580-9940-11e9-8909-d87c5391d6dd.PNG)
 
 ### Instalacion
 
