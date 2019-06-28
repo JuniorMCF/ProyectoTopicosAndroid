@@ -22,8 +22,11 @@ PASO 2 :Escoger el dispositivo donde se instalara el apk
 
 
 ## Corriendo la app
-Una vez instalada la app en nuestro dispositivo, ya podemos empezar
+Una vez instalada la app en nuestro dispositivo, ya podemos empezar:
 
+![paso3](https://user-images.githubusercontent.com/27708565/60320986-0eb24980-9941-11e9-873f-4e7ff9b04ae1.jpg)
+
+Iniciar sesión o click en el boton registrarse para obtener una cuenta.
 
 
 
