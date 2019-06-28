@@ -28,23 +28,25 @@ Una vez instalada la app en nuestro dispositivo, ya podemos empezar:
 
 Iniciar sesión o click en el boton registrarse para obtener una cuenta.
 
+![paso4](https://user-images.githubusercontent.com/27708565/60321043-37d2da00-9941-11e9-8cee-0fbb8c28b436.jpg)
+
+## Contribuciones
 
 
 
-## Contributing
+## Version
 
+Version 1.0
 
+## Autores
 
-## Versioning
-
-
-
-## Authors
-
-
+Castillo Flores Junior Manuel
+Aguirre Janampa Cristian
+Condor Torres Jesus Angel
 
 ## License
+Universidad Nacional de Ingeniería
 
 
-
-## Acknowledgments
+## Agradecimientos
+A la UNI por incentivar la investigación
