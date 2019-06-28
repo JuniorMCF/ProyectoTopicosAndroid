@@ -14,11 +14,12 @@ App Sport Training <br />
 ## Empezando <br />
 Sport Training es una app android que te permitirá conocer las diferentes disciplinas deportivas existentes, y te familiarizara con los distintos planes de entrenamiento de cada deporte para poder competir a nivel profesional, o tambien te guiara a llevar una vida mas saludable a traves del ejercicio. <br />
 
-### Prerequisitos <br />
+## Prerequisitos <br />
 
 Para ejecutar la aplicacion se necesita un dispositivo movil con sistema operativo android 5.1 a más, como este es un modelo de prueba, usted debera descargar la aplicacion del repositorio, correr la aplicacion en Android Studio ejecutandolo en su dispositivo movil (poner en modo desarrollador), o tambien podra utilizar un emulador del sistema operativo android (por ejemplo, NOX). <br />
 
-### Instalacion <br />
+## Instalación <br />
+
 Abrir el Android Studio e importar el proyecto, esperar a que la aplicación ejecute todas las sincronizaciones. <br />
 
 PASO 1 : Abrir el Android Studio, click en File-> Open -> Carpeta que contiene la app descargada
