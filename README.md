@@ -21,7 +21,7 @@ Para ejecutar la aplicacion se necesita un dispositivo movil con sistema operati
 ### Instalacion <br />
 Abrir el Android Studio e importar el proyecto, esperar a que la aplicación ejecute todas las sincronizaciones. <br />
 ```
-PASO 1 : Abrir el Android Studio, click en File-> Open -> **Carpeta que contiene la app descargada **
+PASO 1 : Abrir el Android Studio, click en File-> Open -> Carpeta que contiene la app descargada
 ```
 ![paso0](https://user-images.githubusercontent.com/27708565/60327104-a66b6400-9950-11e9-9ce1-bc1a5d750aa5.PNG)
 ```
@@ -56,22 +56,23 @@ Nos logeamos<br/>
 ![paso8](https://user-images.githubusercontent.com/27708565/60325461-f6e0c280-994c-11e9-93be-c524216c43c4.jpg)
 
 
-Elegimos una de las 3 opciones, como eres un nuevo usuario no tendras ningun deporte en tu lista de deportes (TUS DEPORTES), es por eso que ingresaremos a DEPORTES para poder registrarnos en uno de los deportes que tenemos disponibles.<br/>
+* Elegimos una de las 3 opciones, como eres un nuevo usuario no tendras ningún deporte en tu lista de deportes **TUS DEPORTES**, es por eso que ingresaremos a **DEPORTES** para poder registrarnos en uno de los deportes que tenemos disponibles.<br/>
 
 ![paso9](https://user-images.githubusercontent.com/27708565/60325493-08c26580-994d-11e9-82ad-14d239172ebf.jpg)
 
-Aqui escogemos cualquier deporte, el cual nos llevara a una lista de sub-deportes
+* Aquí escogemos cualquier deporte, el cual nos llevará a una lista de sub-deportes
 
 ![paso10](https://user-images.githubusercontent.com/27708565/60325509-14159100-994d-11e9-8d15-7a44c6fae560.jpg)
 
-Elegimos el plan que deseamos
+* Elegimos el plan que deseamos, click en **INSCRIBIRSE**
 
 ![paso11](https://user-images.githubusercontent.com/27708565/60325554-2bed1500-994d-11e9-90bb-598ce71fb72b.jpg)
 
-Click en INSCRIBIRSE
+* Vamos hacia **TUS DEPORTES** , vemos que tenemos agregado un nuevo deporte en nuestra lista
 
 ![paso12](https://user-images.githubusercontent.com/27708565/60325568-34dde680-994d-11e9-88d1-def46d685954.jpg)
 
+* Ya podemos empezar,  si hacemos click en la imagen del deporte se nos abrirán los niveles disponibles:
 
 
 
