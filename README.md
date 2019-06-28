@@ -86,6 +86,7 @@ PASO 3 : Escoger el dispositivo donde se instalara el apk
 
 
 ## Contribuciones <br />
+https://github.com/JuniorMCF<br/>
 https://github.com/Cristian-Aguirre
 
 
