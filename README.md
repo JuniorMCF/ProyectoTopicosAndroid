@@ -26,12 +26,12 @@ PASO 1 : Abrir el Android Studio, click en File-> Open -> Carpeta que contiene l
 ```
 ![paso0](https://user-images.githubusercontent.com/27708565/60327104-a66b6400-9950-11e9-9ce1-bc1a5d750aa5.PNG)
 ```
-PASO 2 :Correr la app haciendo click como se muestra en la imagen adjunta
+PASO 2 : Correr la app haciendo click como se muestra en la imagen adjunta
 ```
 ![paso1](https://user-images.githubusercontent.com/27708565/60320548-b0d13200-993f-11e9-9dee-043b6bc5a1ba.PNG)
 
 ```
-PASO 3 :Escoger el dispositivo donde se instalara el apk
+PASO 3 : Escoger el dispositivo donde se instalara el apk
 ```
 ![paso2](https://user-images.githubusercontent.com/27708565/60320801-71571580-9940-11e9-8909-d87c5391d6dd.PNG)
 
