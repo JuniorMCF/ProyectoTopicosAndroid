@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/contactos"
+        android:title="Contactos"></item>
+    <item android:id="@+id/deportista" android:title="Deportista"></item>
+    <item android:id="@+id/publicaciones" android:title="Publicaciones"></item>
+    <item android:id="@+id/inicio" android:title="Inicio"></item>
+    <item android:id="@+id/tus_deportes" android:title="Tus Deportes"></item>
+    <item android:id="@+id/comunidad" android:title="Comunidad"></item>
+    <item android:id="@+id/deportes" android:title="Deportes"></item>
+    <item android:id="@+id/cerrar_sesion" android:title="Cerrar Sesión"></item>
+</menu>

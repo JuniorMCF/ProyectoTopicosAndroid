@@ -2,12 +2,11 @@
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/barra_menu"
     android:layout_width="match_parent"
     android:layout_height="wrap_content">
-
-
     <android.support.v7.widget.Toolbar
-        android:id="@+id/toolbar"
+        android:id="@+id/toolbarMenu"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:background="#fff"
@@ -21,42 +20,42 @@
         app:layout_constraintVertical_bias="0.0" />
 
     <ImageButton
-        android:id="@+id/imageButton"
+        android:id="@+id/btnInfo"
+        android:layout_width="50dp"
+        android:layout_height="0dp"
+        android:background="@drawable/fondo_icono"
+        app:layout_constraintBottom_toBottomOf="@+id/toolbarMenu"
+        app:layout_constraintEnd_toStartOf="@+id/btnMensajes"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/toolbarMenu"
+        app:layout_constraintTop_toTopOf="@+id/toolbarMenu"
+        app:layout_constraintVertical_bias="1.0"
+        app:srcCompat="@drawable/ic_menu_black_24dp" />
+
+    <ImageButton
+        android:id="@+id/btnMensajes"
+        android:layout_width="49dp"
+        android:layout_height="0dp"
+        android:background="@drawable/fondo_icono"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/btnNotificaciones"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/toolbarMenu"
+        app:layout_constraintTop_toTopOf="@+id/toolbarMenu"
+        app:srcCompat="@drawable/ic_message_black_24dp" />
+
+    <ImageButton
+        android:id="@+id/btnNotificaciones"
         android:layout_width="50dp"
         android:layout_height="0dp"
         android:layout_marginStart="8dp"
         android:background="@drawable/fondo_icono"
-        app:layout_constraintBottom_toBottomOf="@+id/toolbar"
-        app:layout_constraintEnd_toEndOf="@+id/toolbar"
+        app:layout_constraintBottom_toBottomOf="@+id/toolbarMenu"
+        app:layout_constraintEnd_toEndOf="@+id/toolbarMenu"
         app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintStart_toStartOf="@+id/toolbar"
-        app:layout_constraintTop_toTopOf="@+id/toolbar"
+        app:layout_constraintStart_toStartOf="@+id/toolbarMenu"
+        app:layout_constraintTop_toTopOf="@+id/toolbarMenu"
         app:layout_constraintVertical_bias="0.0"
         app:srcCompat="@drawable/ic_notifications_black_24dp" />
 
-    <ImageButton
-        android:id="@+id/imageButton2"
-        android:layout_width="50dp"
-        android:layout_height="0dp"
-        android:background="@drawable/fondo_icono"
-        app:layout_constraintBottom_toBottomOf="@+id/toolbar"
-        app:layout_constraintEnd_toStartOf="@+id/imageButton"
-        app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintStart_toStartOf="@+id/toolbar"
-        app:layout_constraintTop_toTopOf="@+id/toolbar"
-        app:layout_constraintVertical_bias="1.0"
-        app:srcCompat="@drawable/ic_message_black_24dp" />
-
-    <ImageButton
-        android:id="@+id/imageButton3"
-        android:layout_width="50dp"
-        android:layout_height="0dp"
-        android:background="@drawable/fondo_icono"
-        app:layout_constraintBottom_toBottomOf="@+id/toolbar"
-        app:layout_constraintEnd_toStartOf="@+id/imageButton2"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="@+id/toolbar"
-        app:layout_constraintTop_toTopOf="@+id/toolbar"
-        app:layout_constraintVertical_bias="1.0"
-        app:srcCompat="@drawable/ic_menu_black_24dp" />
 </android.support.constraint.ConstraintLayout>
